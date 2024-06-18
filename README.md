@@ -21,7 +21,7 @@ You will see the server launched successfully with the message :
 Server listening on port 8080
 ```
 
-# Client
+# QT Client (Qt5 et Qt6)
 
 Build the client :
 
